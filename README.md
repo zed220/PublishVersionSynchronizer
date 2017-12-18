@@ -1,0 +1,1 @@
+ClickOnce Publish version syncronizer
