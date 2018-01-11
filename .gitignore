@@ -1,3 +1,4 @@
 packages/
 PublishVersionSynchronizer/bin/
 PublishVersionSynchronizer/obj/
+.vs/
